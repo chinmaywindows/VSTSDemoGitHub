@@ -1,0 +1,11 @@
+/Users/chinmaytrivedi/Projects/VSTSDemo/bin/Debug/netcoreapp2.0/VSTSDemo.deps.json
+/Users/chinmaytrivedi/Projects/VSTSDemo/bin/Debug/netcoreapp2.0/VSTSDemo.runtimeconfig.json
+/Users/chinmaytrivedi/Projects/VSTSDemo/bin/Debug/netcoreapp2.0/VSTSDemo.runtimeconfig.dev.json
+/Users/chinmaytrivedi/Projects/VSTSDemo/bin/Debug/netcoreapp2.0/VSTSDemo.dll
+/Users/chinmaytrivedi/Projects/VSTSDemo/bin/Debug/netcoreapp2.0/VSTSDemo.pdb
+/Users/chinmaytrivedi/Projects/VSTSDemo/obj/Debug/netcoreapp2.0/VSTSDemo.csprojResolveAssemblyReference.cache
+/Users/chinmaytrivedi/Projects/VSTSDemo/obj/Debug/netcoreapp2.0/VSTSDemo.csproj.CoreCompileInputs.cache
+/Users/chinmaytrivedi/Projects/VSTSDemo/obj/Debug/netcoreapp2.0/VSTSDemo.AssemblyInfoInputs.cache
+/Users/chinmaytrivedi/Projects/VSTSDemo/obj/Debug/netcoreapp2.0/VSTSDemo.AssemblyInfo.cs
+/Users/chinmaytrivedi/Projects/VSTSDemo/obj/Debug/netcoreapp2.0/VSTSDemo.dll
+/Users/chinmaytrivedi/Projects/VSTSDemo/obj/Debug/netcoreapp2.0/VSTSDemo.pdb
